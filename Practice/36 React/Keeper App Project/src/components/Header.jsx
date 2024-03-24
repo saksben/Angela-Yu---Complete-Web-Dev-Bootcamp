@@ -1,5 +1,6 @@
 import React from "react";
 
+// Creates Header component
 function Header() {
     return (
         <header>

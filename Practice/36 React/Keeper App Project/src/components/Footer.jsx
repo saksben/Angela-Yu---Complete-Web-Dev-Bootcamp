@@ -1,5 +1,6 @@
 import React from "react";
 
+// Creates footer component
 function Footer() {
     let year = new Date().getFullYear();
 
